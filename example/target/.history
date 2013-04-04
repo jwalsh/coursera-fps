@@ -1,0 +1,11 @@
+import example.Lists._
+console
+test
+run
+styleCheck
+submit coursera@jwalsh.net Yf2FCWyDY3
+  def square(x: Double): Double = 
+    x * x
+  def sumOfSquare(x: Double, y: Double): Double = 
+    square(x) + square(y)
+console
